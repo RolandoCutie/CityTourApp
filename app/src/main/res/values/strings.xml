@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">CityTourTravelApp</string>
+    <string name="logo_name">Get A Way</string>
+    <string name="slogan_name">We will help you to find your way!</string>
+    <string name="power_by">Power By Me</string>
+
+
+    <!--Strings for the omboarding Screen -->
+
+    <!--Titles -->>
+    <string name="first_slide_title">Search your location</string>
+    <string name="second_slide_title">Make a call</string>
+    <string name="third_slide_title">Add missing place</string>
+    <string name="four_slide_title">Sit back and enjoy</string>
+
+    <!--Descriptions-->>
+    <string name="first_slide_desc">You can search any place nearby or with-in the specified city. We will display specific or al relate</string>
+    <string name="second_slide_desc">We provide almost all the numbers of all departments and shops registered with us. You can performace</string>
+    <string name="third_slide_desc">If you have a shop or shomethings and want to be a part of our growing industry them add your place by us</string>
+    <string name="four_slide_desc">We will handle everything for you. As you have the app in your pocket then you don have to worry</string>
+
+
+    <!--Buttons-->>
+    <string name="skip_btn">Skip</string>
+    <string name="next_btn">Next</string>
+    <string name="let_get_started">Lets get started</string>
+
+
+</resources>
